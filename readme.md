@@ -127,7 +127,7 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
