@@ -91,77 +91,77 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="65" height="65" alt="jquery" />
       <br>JQuery
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="jquery" />
       <br>PostgreSQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
       <br>Redis
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="48" height="48" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="dart" />
       <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="dart" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="dart" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="65" height="65" alt="dart" />
       <br>Celery
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="65" height="65" alt="dart" />
       <br>Docusaurus
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="65" height="65" alt="dart" />
       <br>Pytest
     </td>
   </tr>
