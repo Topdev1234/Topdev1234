@@ -73,7 +73,7 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
       <br>Eslint
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Jest
     </td>
           <td align="center" width="96">
@@ -141,15 +141,15 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="65" height="65" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="48" height="48" alt="dart" />
       <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="dart" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="dart" />
       <br>Java
     </td>
     <td align="center" width="96">
