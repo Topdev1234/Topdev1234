@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/logo(1).png" />
+<img src="logo(1).png" />
 
 Showcase your skills on your Github readme or resumé with ease ✨
 <br/>
