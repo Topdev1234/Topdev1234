@@ -5,7 +5,7 @@ Showcase your skills on your Github readme or resumé with ease ✨
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=all">
+<img src="https://skillicons.dev/icons?i=java">
 
 
 <br/>
