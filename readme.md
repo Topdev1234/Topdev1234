@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png" alt="readme-ascii" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/rzashakeri/beautifygithubprofile/master/cover-repo.jpg">
 
 Showcase your skills on your Github readme or resumé with ease ✨
 <br/>
