@@ -4,8 +4,11 @@ Showcase your skills on your Github readme or resumé with ease ✨
 <br/>
 
 <br/>
-
-<img src="https://skillicons.dev/icons?i=java">
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript">
+  <img src="https://skillicons.dev/icons?i=typescript">
+  <img src="https://skillicons.dev/icons?i=softwaredevelopment">
+</div>
 
 
 <br/>
