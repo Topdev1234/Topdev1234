@@ -46,7 +46,7 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px;" />
-      <br>Nginx
+      <br>C#
     </td>
   </tr>
   <tr>
@@ -153,12 +153,12 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="65" height="65" alt="dart" />
-      <br>Celery
+        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="dart" />
+      <br>Angular
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="65" height="65" alt="dart" />
-      <br>Docusaurus
+        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="dart" />
+      <br>Vue
     </td>
     <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="65" height="65" alt="dart" />
@@ -166,6 +166,44 @@ welcome to my GitHub Page. I am a senior software engineer, I have 7+ years of e
     </td>
   </tr>
   <tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next" width="65" height="65" alt="Git" />
+      <br>Next
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nuxt" width="65" height="65" alt="GitLab" />
+      <br>Nuxt
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=nest" width="65" height="65" alt="HTML" />
+      <br>Nest
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="css" />
+      <br>PHP
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="bootstrap" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=node" width="65" height="65" alt="tailwind" />
+      <br>Node
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="jquery" />
+      <br>Express
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" width="65" height="65" alt="jquery" />
+      <br>Ruby
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=golang" width="65" height="65" alt="ASP.NET Core" />
+      <br>Go
+    </td>
+  </tr>
  <tr>
  </tr>
 </table>
