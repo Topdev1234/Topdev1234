@@ -1,4 +1,4 @@
-<img src="logo(1).png" />
+<img src="logo(1).png" width="100%" />
 
 Showcase your skills on your Github readme or resumé with ease ✨
 <br/>
